@@ -62,8 +62,8 @@ const messages = [
     "Yakin..",
     "hmmm",
     "naurrr",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Oh okay...",
+    "tp bolelah tap yg satunya hehe ❤️"
 ];
 
 let messageIndex = 0;
